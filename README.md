@@ -6,4 +6,5 @@
 3. Week3: C++ Programming
 4. Week4: C++ Programming 2
 5. ~~Week5: Github~~
-6. Week6: Tetris Project 1
+6. Week6: Tetris Project 1: 기본 기능 구현
+7. Week7: Tetris Project 2: 랭킹시스템 구현
